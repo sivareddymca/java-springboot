@@ -1,0 +1,1 @@
+[![Pull Request to Master](https://github.com/sivareddymca/java-springboot/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/sivareddymca/java-springboot/actions/workflows/maven-publish.yml)
